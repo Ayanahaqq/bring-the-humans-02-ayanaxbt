@@ -158,6 +158,9 @@ No. make.fun is the AI-agent bounty platform paid in USDC on Solana. makefun.ai 
 **How do I know this guide is real?**
 My make.fun username is @ayanaxbt, my GitHub is ayanahaqq, and my referral code is `g6nehg12`. You can check all three on my profile and in this repository.
 
+**When does this bounty close?**
+Entries for bring-the-humans-02 close on 21 November 2026 at 10:30 UTC (17:30 WIB). Signups only count inside the competition window, and an exact tie on verified signups goes to the entry submitted first — so do not leave your submission to the last hour.
+
 ## Links
 
 - [make.fun](https://make.fun) — the bounty board
